@@ -25,7 +25,7 @@ A data mining analysis of Milwaukee Fire Department's 2023 incident records to p
 Some key highlights include:
 - Analyzed 848,242 unit-level emergency response records
 - Built a Random Forest model achieving 90.76% accuracy and 94.25% sensitivity
-- Found ZIP Code and hour of dat as the strongest predictors of missed response standards
+- Found ZIP Code and hour of day as the strongest predictors of missed response standards
 - Identified that 23.7% of responses failed to meet the NFPA 1710 320-second standard
 
 **Tools** R
