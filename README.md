@@ -15,7 +15,7 @@ Some key highlights include:
 
 **Tools** R
 
-[View Report (PDF)](Trust-and-Transparency/Trust%20and%20Transparency.pdf)|[View R Script](./Trust-and-Transparency/reports/Trust_and_Transparency.r)
+[View Report (PDF)](Trust-and-Transparency/Trust%20and%20Transparency.pdf)|[View R Script](Trust-and-Transparency/Trust%20and%20Transparency.r)
 
 **Data** [Pew Research Center American Trends Panel, Wave 127](https://www.pewresearch.org/dataset/american-trends-panel-wave-127/)
 
@@ -30,4 +30,6 @@ Some key highlights include:
 
 **Tools** R
 
-[View Report (PDF)](When-Every-Second-Counts/WhenEverySecondCounts.pdf)
+[View Report (PDF)](When-Every-Second-Counts/WhenEverySecondCounts.pdf)|[View R Script](When-Every-Second-Counts/WhenEverySecondCounts.pdf)
+
+**Data****Data:** [Milwaukee Fire Department 2023 Incident Records (Open Data)](https://data.milwaukee.gov)
