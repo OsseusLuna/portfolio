@@ -30,6 +30,6 @@ Some key highlights include:
 
 **Tools** R
 
-[View Report (PDF)](When-Every-Second-Counts/WhenEverySecondCounts.pdf)|[View R Script](When-Every-Second-Counts/WhenEverySecondCounts.pdf)
+[View Report (PDF)](When-Every-Second-Counts/WhenEverySecondCounts.pdf)|[View R Script](When-Every-Second-Counts/WhenEverySecondCounts.r)
 
 **Data****Data:** [Milwaukee Fire Department 2023 Incident Records (Open Data)](https://data.milwaukee.gov)
