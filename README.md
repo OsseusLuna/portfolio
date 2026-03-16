@@ -18,3 +18,16 @@ Some key highlights include:
 [View Report (PDF)](./Trust-and-Transparency/reports/Trust_and_Transparency.pdf)|[View R Script](./Trust-and-Transparency/reports/Trust_and_Transparency.r)
 
 **Data** [Pew Research Center American Trends Panel, Wave 127](https://www.pewresearch.org/dataset/american-trends-panel-wave-127/)
+
+### When Every Second Counts
+A data mining analysis of Milwaukee Fire Department's 2023 incident records to predict and identify factors driving NFPA 1710 response time compliance failures.
+
+Some key highlights include:
+- Analyzed 848,242 unit-level emergency response records
+- Built a Random Forest model achieving 90.76% accuracy and 94.25% sensitivity
+- Found ZIP Code and hour of dat as the strongest predictors of missed response standards
+- Identified that 23.7% of responses failed to meet the NFPA 1710 320-second standard
+
+**Tools** R
+
+[View Report (PDF)](./Every-Second-Counts/reports/WhenEverySecondCounts.pdf)
