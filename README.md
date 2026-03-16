@@ -30,4 +30,4 @@ Some key highlights include:
 
 **Tools** R
 
-[View Report (PDF)](./Every-Second-Counts/WhenEverySecondCounts.pdf)
+[View Report (PDF)](When-Every-Second-Counts/WhenEverySecondCounts.pdf)
